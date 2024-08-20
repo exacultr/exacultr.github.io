@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exacultr.github.io/sitemap.html.gz
+Sitemap: https://exacultr.github.io/app/sitemap.html.gz
+Sitemap: https://exacultr.github.io/assets/sitemap.html.gz
+Sitemap: https://exacultr.github.io/css/sitemap.html.gz
+Sitemap: https://exacultr.github.io/includes/sitemap.html.gz
+Sitemap: https://exacultr.github.io/item/sitemap.html.gz
+Sitemap: https://exacultr.github.io/src/sitemap.html.gz
